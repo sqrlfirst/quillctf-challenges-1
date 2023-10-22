@@ -12,12 +12,12 @@ contract LostInTheDessertsTest is Test {
     }
 
     function testSol1() public {
-        uint256 a = ? ;
-        uint256 b = ? ;
-        uint256 c = ? ;
-        uint256 d = ? ;
-        uint256[4] memory pie = [ ?,?,?,? ];
-        bool res = ctf.solve(a, b, c, d, ?, pie);
-        assertTrue(res);
+        // uint256 a = ? ;
+        // uint256 b = ? ;
+        // uint256 c = ? ;
+        // uint256 d = ? ;
+        // uint256[4] memory pie = [ ?,?,?,? ];
+        // bool res = ctf.solve(a, b, c, d, ?, pie);
+        // assertTrue(res);
     }
 }
